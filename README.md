@@ -2,6 +2,10 @@
 
 [generator-material-react](https://github.com/leftstick/generator-material-react#readme) 是yeoman脚手架的一个示例项目
 
+## 快速使用
+
+实际项目中，可以直接clone本仓库，清空src/js/application目录。在application目录中创建项目文件，并修改webpack相关配置，即可使用。
+
 ## 安装步骤
 
 1. Install yeoman:
